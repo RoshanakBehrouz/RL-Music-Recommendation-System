@@ -53,14 +53,14 @@ Through repeated interactions, the agent learns which recommendations yield high
 1. **Clone the Repository**:
 
 git clone https://github.com/RoshanakBehrouz.git
-RL-Music-Recommendation-System
+ cd RL-Music-Recommendation-System
 
 
 2. **Install Dependencies**:
 pip install numpy matplotlib seaborn pandas
 
 3.**Run the Notebook**:
-jupyter notebook "RLFinal.ipynb"
+jupyter notebook "Music_Recommendation_Q_Learning.ipynb"
 
 ## Usage
 Run all cells in the notebook.
