@@ -52,8 +52,8 @@ Through repeated interactions, the agent learns which recommendations yield high
 
 1. **Clone the Repository**:
 
-git clone https://github.com/RoshanakBehrouz/RL-Music-Recommendation-System.git
-cd your-repo-name
+git clone https://github.com/RoshanakBehrouz.git
+RL-Music-Recommendation-System
 
 
 2. **Install Dependencies**:
