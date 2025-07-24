@@ -58,7 +58,7 @@ cd your-repo-name
 2. **Install Dependencies**:
 pip install numpy matplotlib seaborn pandas
 
-3.Run the Notebook:
+3.**Run the Notebook**:
 jupyter notebook "RLFinal.ipynb"
 
 ## Usage
