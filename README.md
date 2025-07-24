@@ -56,19 +56,6 @@ Through repeated interactions, the agent learns which recommendations yield high
 pip install numpy matplotlib seaborn pandas
 
 
-## Usage
-Run all cells in the notebook.
-
-The main() function will:
-
-Train a general agent.
-
-Train agents on specific user profiles.
-
-Generate and display visualizations.
-
-Print learned policies and sample recommendations.
-
 ## Output Visualizations
 Q-Table Heatmap: Learned Q-values for each state-action pair.
 
