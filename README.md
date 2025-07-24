@@ -31,7 +31,7 @@ The system models music recommendation as a **reinforcement learning** problem:
 - **Rewards**: Feedback for recommendation (e.g., `+10` for liked, `-5` for skipped).
 - **Q-Table**: A lookup table for expected future rewards, updated using the Q-learning formula:
 
-Q(s, a) ← Q(s, a) + α [ r + γ max_a' Q(s', a') − Q(s, a) ]
+$$ Q(s, a) ← Q(s, a) + α [ r + γ max_a' Q(s', a') − Q(s, a) ] $$
 
 
 Where:
