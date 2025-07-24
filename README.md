@@ -50,7 +50,7 @@ Through repeated interactions, the agent learns which recommendations yield high
 
 ## 🚀 Installation
 
-1. **Clone the Repository**:
+1. **Clone the Repository**
 
 2. **Install Dependencies**:
 pip install numpy matplotlib seaborn pandas
