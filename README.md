@@ -55,8 +55,6 @@ Through repeated interactions, the agent learns which recommendations yield high
 2. **Install Dependencies**:
 pip install numpy matplotlib seaborn pandas
 
-3.**Run the Notebook**:
-jupyter notebook "Music_Recommendation_Q_Learning.ipynb"
 
 ## Usage
 Run all cells in the notebook.
