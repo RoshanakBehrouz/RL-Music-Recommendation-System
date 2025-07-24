@@ -61,7 +61,7 @@ pip install numpy matplotlib seaborn pandas
 3.Run the Notebook:
 jupyter notebook "RLFinal.ipynb"
 
-Usage
+## Usage
 Run all cells in the notebook.
 
 The main() function will:
@@ -74,7 +74,7 @@ Generate and display visualizations.
 
 Print learned policies and sample recommendations.
 
-Output Visualizations
+## Output Visualizations
 Q-Table Heatmap: Learned Q-values for each state-action pair.
 
 Reward Curve: Tracks average reward across episodes.
@@ -83,7 +83,7 @@ Epsilon Decay: Shows shift from exploration to exploitation.
 
 Action Distribution: Frequency of genre recommendations.
 
-💡 Future Enhancements
+## 💡 Future Enhancements
 🔌 Real User Data: Integrate Spotify API or similar for live data.
 
 🧠 Richer State Representation: Add user mood, time of day, and history.
