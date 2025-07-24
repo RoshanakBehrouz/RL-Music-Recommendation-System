@@ -52,10 +52,6 @@ Through repeated interactions, the agent learns which recommendations yield high
 
 1. **Clone the Repository**:
 
-git clone https://github.com/RoshanakBehrouz.git
- cd RL-Music-Recommendation-System
-
-
 2. **Install Dependencies**:
 pip install numpy matplotlib seaborn pandas
 
